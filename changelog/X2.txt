@@ -1,0 +1,101 @@
+================================================================================
+🚀 TEQUILA OS UPDATE - CHANGELOG 
+================================================================================
+
+✨ HIGHLIGHTS & MAJOR FEATURES
+--------------------------------------------------------------------------------
+🎨 NEW: Nothing OS-Style Quick Settings
+   • Completely revamped the Quick Settings panel with a dynamic, resizable grid.
+   • LONG PRESS any tile to enter "Edit Mode."
+   • TOGGLE between shapes:
+     - ⭕ Circle (1x1): Minimalist and clean.
+     - 💊 Pill (2x1): Expanded view with a vertical divider.
+   • The grid automatically reflows to fit your custom layout perfectly.
+
+🍞 NEW: Glassmorphism Toasts
+   • Said goodbye to boring grey boxes!
+   • System toasts now feature a real-time BLUR (translucent) background.
+   • Looks beautiful in both Light and Dark themes.
+
+📸 NEW: Modern Screenshot UI
+   • Redesigned the screenshot overlay chip.
+   • Action buttons (Share, Edit, Delete) are now arranged vertically for better one-handed reachability.
+   • Added a cleaner visual preview border.
+
+🔊 NEW: AxionUI Volume Dialog
+   • A fresh look for the volume control panel.
+   • Implemented smoother swipe animations for volume sliders.
+   • Added a visual "Dot Line" indicator style for precise adjustments.
+
+
+🛠️ SYSTEM UI & THEMING
+--------------------------------------------------------------------------------
+🅰️ Typography
+   • Added "NType82" (Nothing OS font) for Settings headlines to give the UI a unique identity.
+
+🌗 Dark/Light Mode Perfection
+   • Quick Settings panel now properly respects the system-wide Light/Dark theme.
+   • Fixed issues where text or icons would disappear on wallpaper changes.
+   • Corrected the Quick Settings Clock color adaptation.
+
+🔆 Brightness Slider
+   • Locked the Brightness Slider to the BOTTOM of the expanded panel for easier access.
+   • Removed the slider from the collapsed (QQS) view to declutter the header.
+
+☕ Caffeine Tile
+   • Added the "Caffeine" Quick Settings tile to keep your display awake indefinitely with a single tap.
+
+📦 Package Installer
+   • Sideloading apps just got clearer!
+   • Now displays "Current Version" vs "New Version" so you know exactly what you are updating.
+
+👤 Avatar Picker
+   • Added a collection of Pixel-style avatars to the user profile selection screen.
+
+
+⚙️ SETTINGS & CUSTOMIZATION
+--------------------------------------------------------------------------------
+🎛️ Dashboard Redesign
+   • Overhauled the main Settings dashboard with a modern, card-based layout.
+   • Added a circular status chip to the Bluetooth card for quick status checks.
+
+ℹ️ About Phone
+   • Implemented an expandable "About ROM" card.
+   • Tap to expand and see full details with a smooth animation.
+
+🛡️ Privacy & Developer Options
+   • NEW: Per-App "Hide Developer Status".
+     - Select specific apps to hide your Developer Options status from (useful for banking/security apps).
+   • Removed the "Brightness Slider Position" toggle (now fixed to bottom by default).
+
+
+🔒 SPOOFING & INTEGRITY (Advanced Users)
+--------------------------------------------------------------------------------
+🔑 Keybox XML Support
+   • Added a dedicated menu to upload custom Keybox XML files.
+   • Essential for fixing Hardware Attestation and passing strong integrity checks.
+
+🤥 Play Integrity Fix (PIF)
+   • Added support for JSON-based Play Integrity Fix injection.
+   • Simply load your custom PIF JSON file to bypass integrity checks.
+
+🎮 Game Props Spoofing
+   • Implemented Per-App Game Spoofing via JSON.
+   • Trick games into unlocking higher FPS or graphics settings by spoofing specific device models (e.g., ROG Phone 6).
+
+📱 Device Fingerprints
+   • Updated internal fingerprints to match Pixel 8 Pro, Pixel 9 Pro XL, and Pixel 10 Pro XL for better compatibility.
+   • Improved GMS spoofing logic to ensure Google apps recognize the device correctly.
+
+
+🐛 BUG FIXES & IMPROVEMENTS
+--------------------------------------------------------------------------------
+• Fixed a crash related to the "NoSuchAlgorithmException" during key generation.
+• Resolved issues with SystemUI crashing when resizing Quick Settings tiles.
+• Cleaned up duplicate resources and unused configuration overlays to reduce ROM size.
+• Optimized system restart dialogs for applying spoofing changes.
+• Fixed visibility issues with the Quick Settings header clock.
+
+================================================================================
+Made with ❤️ by the Tequila OS Team
+================================================================================
