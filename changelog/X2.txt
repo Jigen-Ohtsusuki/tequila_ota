@@ -1,5 +1,5 @@
 ================================================================================
-🚀 TEQUILA OS UPDATE - CHANGELOG 
+🚀 TEQUILA EXTENDED UPDATE - CHANGELOG 
 ================================================================================
 
 ✨ HIGHLIGHTS & MAJOR FEATURES
@@ -46,8 +46,8 @@
    • Added the "Caffeine" Quick Settings tile to keep your display awake indefinitely with a single tap.
 
 📦 Package Installer
-   • Sideloading apps just got clearer!
    • Now displays "Current Version" vs "New Version" so you know exactly what you are updating.
+   • Updated the UI and fixed some logic issues
 
 👤 Avatar Picker
    • Added a collection of Pixel-style avatars to the user profile selection screen.
@@ -97,5 +97,5 @@
 • Fixed visibility issues with the Quick Settings header clock.
 
 ================================================================================
-Made with ❤️ by the Tequila OS Team
+Made with ❤️ by the Jigen-Ohtsusuki
 ================================================================================

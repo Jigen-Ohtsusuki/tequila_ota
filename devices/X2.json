@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1765787106,
+      "datetime": 1765790549,
       "filename": "tequila-14-OFFICIAL_20251215_X2.zip",
-      "id": "102d4c06e3182a2964ca56ef9d5269e4",
-      "size": 1800533388,
-      "url": "https://github.com/Jigen-Ohtsusuki/ROMS/releases/download/v1.0.2/tequila-14-OFFICIAL_20251215_X2.zip",
+      "id": "485551aeffcb566634453aff3893d060",
+      "size": 1800530295,
+      "url": "https://github.com/Jigen-Ohtsusuki/ROMS/releases/download/v1.0.3/tequila-14-OFFICIAL_20251215_X2.zip",
       "version": "14"
     }
   ]
